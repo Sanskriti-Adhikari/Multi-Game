@@ -50,14 +50,3 @@ The game includes a visual representation of the hangman structure and displays 
 ### Compilation
 ```bash
 g++ game.cpp -o game -lraylib -lopengl32 -lgdi32 -lwinmm
-
-### Execution
-./game
-
-### File Structure
-
-game.cpp — Main source file containing all game logic
-
-users.txt — Stores user credentials and high scores
-
-README.md — Project documentation
