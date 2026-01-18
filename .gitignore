@@ -1,2 +1,7 @@
 ~$Readme.docx
 users.txt
+*.exe
+*.docx
+*.out
+*.o
+*.user
